@@ -316,7 +316,7 @@ a:hover{
 .solid-white-btn{
     background: #ffffff;
     border-color: #ffffff;
-    color: #f53232;
+    color: #3264f5;
     border-radius: 30px;
 }
 .solid-white-btn:hover{
@@ -330,7 +330,7 @@ a:hover{
 }
 .outline-white-btn:hover{
     background: #ffffff;
-    color: #f53232;
+    color: #3264f5;
 }
 
 /*icon size*/
