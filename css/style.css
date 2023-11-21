@@ -926,7 +926,7 @@ select.form-control.has-value{
 
 .iphone-mask{
     z-index: 10;
-    object-fit: cover;
+    object-fit: contain;
     display: flex;
     flex-direction: row;
     -webkit-box-pack: center;
